@@ -180,8 +180,6 @@ function visualize(stream) {
 
 var wantedWords = [
   'Zero',
-	'Um',
-	'Dois',
   'One',
   'Two',
   'Three',
