@@ -20,7 +20,7 @@ var ignoreAutoPlay = false;
 // disable stop button while not recording
 
 stop.disabled = true;
-upload.disabled = true;
+upload.disabled = false;
 
 // visualiser setup - create web audio api context and canvas
 
